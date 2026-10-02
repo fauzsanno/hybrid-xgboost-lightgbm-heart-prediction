@@ -1,0 +1,23 @@
+# Dataset
+*.csv
+!results/experiment_results.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
